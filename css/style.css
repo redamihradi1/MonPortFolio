@@ -46,15 +46,18 @@ body {
 }
 .foooter {
   background-color: rgba(226, 225, 217, 0.4);
-  margin-top: 61px;
+  position: absolute;
+
+  width: 100%;
+  bottom: 0%;
   text-align: center;
 }
 .cv {
-  margin-top: 50px;
+  margin-top: 10px;
   margin-left: 400px;
 
-  width: 537px;
-  height: 100%;
+  width: 630px;
+  height: 850px;
 }
 .btnretour {
   margin-top: 400px;
